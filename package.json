@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@chekl/most-used-letter": "^1.0.0"
+    "@chekl/most-used-letter": "^1.0.1"
   }
 }
