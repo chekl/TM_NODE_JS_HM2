@@ -1,0 +1,16 @@
+{
+  "name": "tm_node_js_hm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "execute": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chekl/most-used-letter": "^1.0.0"
+  }
+}
